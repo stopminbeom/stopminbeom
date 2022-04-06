@@ -2,7 +2,7 @@
 
 - I'm currently studying at <img src="https://img.shields.io/badge/seoul-FFFFFF?style=flat-square&logo=42&logoColor=black"/>
 
-[![mseo's 42 stats](https://badge42.herokuapp.com/api/stats/mseo)](https://github.com/JaeSeoKim/badge42)
+[![mseo's 42 stats](https://badge42.vercel.app/api/v2/cl1ndxubq002009mgx2hh1j3z/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
 <br><br><br><br><br>
 
